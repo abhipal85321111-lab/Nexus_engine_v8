@@ -2,9 +2,9 @@ from fastapi import FastAPI, UploadFile, File
 import time, os, zlib
 from v8 import NexusV8_GodSqueezer
 
-app = FastAPI(title="☠️ NEXUS V8 - 22GB->2GB GOD SQUEEZER")
+app = FastAPI(title="☠️ NEXUS V8 - 22GB->2GB Real SQUEEZER")
 
-v8_engine = NexusV8_GodSqueezer()
+v8_engine = NexusV8_Realqueezer()
 
 @app.get("/")
 def home():
