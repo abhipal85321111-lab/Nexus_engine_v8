@@ -22,7 +22,7 @@ Aaj tak koi takkar nahi mila na?
 
 | Tumhara System | Mera V8 | Result |
 | :--- | :--- | :--- |
-| Google BigQuery: 2000ms | **NEXUS: 0.22ms** | **9090x PELE DIYA** |
+| Google BigQuery: 2000ms | **NEXUS: 0.22ms** | **9090x  jada hai** |
 | Azure: 22GB pe Server Down | **22GB -> 2GB in 180s** | **11x KILLED** |
 | AWS: 16GB RAM Chahiye | **4MB Chunk me kaam** | **Tum gareeb ho** |
 | Tumhara JSON: 5 MB/s | **Real File: 80 MB/s** | **Beta seekh ke aao** |
@@ -38,7 +38,7 @@ Aaj tak koi takkar nahi mila na?
 - **Power:** `zlib LEVEL 1 + 4MB STREAM`
 - **No Dependencies, No Drama - Seedha Kaam**
 
-----------------BENCH MARK---------------
+----------------**BENCH MARK**---------------
 
 Input: 22GB Real CSV / Log / Database
 Output: 2.1GB (.nexus)
