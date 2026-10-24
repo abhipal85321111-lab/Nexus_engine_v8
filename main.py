@@ -20,7 +20,7 @@ def home():
 def v8_info():
     return {
         "file": "v8.py",
-        "class": "NexusV8_GodSqueezer",
+        "class": "NexusV8_RealSqueezer",
         "power": "22GB -> 2GB in ~180s",
         "speed": "80 MB/s | 11x Ratio",
         "chunk": "4MB | Level 1",
